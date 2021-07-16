@@ -12,6 +12,6 @@ To use create the schema from the mysql shell. Next seed the database with 'npm 
 
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
 
-##Demo
+## Demo
 
 [Demo Video](https://drive.google.com/file/d/1DlUMCYrzgkMnkP_yXMN0sGvU4ibbICXv/view)
